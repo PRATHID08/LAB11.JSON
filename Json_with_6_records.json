@@ -1,8 +1,8 @@
 [
     {
         "courseId": "C101",
-        "title": "Introduction to Web Development",
-        "instructor": "ak",
+        "title": "Web stack development",
+        "instructor": "Prathiksha",
         "duration": "10 hours",
         "rating": 4.5,
         "category": "Web",
@@ -11,8 +11,8 @@
     },
     {
         "courseId": "C102",
-        "title": "Advanced Python Programming",
-        "instructor": "abhi",
+        "title": " Python Programming",
+        "instructor": "Anusha",
         "duration": "15 hours",
         "rating": 4.7,
         "category": "Programming",
@@ -21,8 +21,8 @@
     },
     {
         "courseId": "C103",
-        "title": "Python",
-        "instructor": "Emily Johnson",
+        "title": "COD",
+        "instructor": "Vismaya",
         "duration": "12 hours",
         "rating": 4.6,
         "category": "Data Science",
@@ -31,8 +31,8 @@
     },
     {
         "courseId": "C104",
-        "title": "React for Beginners",
-        "instructor": "Michael Brown",
+        "title": " Advanced React ",
+        "instructor": "Dhanush",
         "duration": "8 hours",
         "rating": 4.4,
         "category": "Web Development",
@@ -41,8 +41,8 @@
     },
     {
         "courseId": "C105",
-        "title": "Machine Learning Basics",
-        "instructor": "Sarah Davis",
+        "title": "Research Methodology",
+        "instructor": "Chandra",
         "duration": "20 hours",
         "rating": 4.8,
         "category": "Data Science",
@@ -52,7 +52,7 @@
     {
         "courseId": "C106",
         "title": "C Programming Fundamentals",
-        "instructor": "David Wilson",
+        "instructor": "Dravid",
         "duration": "10 hours",
         "rating": 4.3,
         "category": "Programming",
@@ -61,7 +61,7 @@
     },
     {
         "courseId": "C107",
-        "title": "C++",
+        "title": "Machine Learning",
         "instructor": "David Wilson",
         "duration": "10 hours",
         "rating": 4.3,
